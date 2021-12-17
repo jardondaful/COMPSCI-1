@@ -1,5 +1,5 @@
 # COMPSCI-1
-These are my solutions to projects and homework assignments assigned in Chaffey College's COMPSCI-1 class in Summer 2020. Please do not try to copy or re-use any of my code for future classes. The purpose of this repository is to back up my work and to serve as a resource for self-education. The following problems from the "Projects" section of Big C++: Late Objects, 3rd Edition were assigned in the form of projects 1-21 that are contained their respective chapter's folders
+These are my solutions to projects and homework assignments assigned in Chaffey College's COMPSCI-1 class in Summer 2020. Please do not try to copy or re-use any of my code for future classes. The purpose of this repository is to back up my work and to serve as a resource for self-education. The following problems from the "Projects" section of Big C++: Late Objects, 3rd Edition were assigned in the form of projects 1-21 that are contained their respective chapter's folders and discussion/extra credit projects are in their respectively named folders
 
 
 Chapter 1: 1.1, 1.2, 1.3, 1.8
